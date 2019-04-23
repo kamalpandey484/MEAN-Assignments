@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About</title>
+    <script>
+        fetch('http://localhost:5009/data')
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(myJson) {
+                var data = JSON.parse(myJson);
+                // console.log(JSON.stringify(myJson));
+                console.log(data[2]);
+            });
+    </script>
+</head>
+<body>
+    <header>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact-Us</a>
+    </header>
+    <h1>About Page</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Branch</th>
+            <th>User Name</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+
+        </tr>
+    </table>
+</body>
+</html>
