@@ -5,7 +5,7 @@ import uuid from 'uuid';
 // import { browserHistory } from 'react-router';
 
 
-class AddUser extends Component {
+class AddTodo extends Component {
     constructor() {
         super();
         this.state = {
@@ -40,9 +40,9 @@ class AddUser extends Component {
     }
     render() {
         return (
-            <div className="App col-6 mx-auto col-md-6">
+            <div className="App `col-6 mx-auto col-md-6`">
                 <header className="App-header">
-                    <h1 className="App-title text-center mt-3">Add User</h1>
+                    <h1 className="App-title text-center mt-3">Add Todo</h1>
                 </header>
                 <div className="container">
                     <form onSubmit={this.addTodo}>
@@ -66,4 +66,4 @@ class AddUser extends Component {
     }
 }
 
-export default AddUser;
+export default AddTodo;
