@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FirstComponent - No props Is snapshot Same 1`] = `
+<div
+  className="AboutPage"
+>
+  <h1>
+    About Component!
+  </h1>
+</div>
+`;

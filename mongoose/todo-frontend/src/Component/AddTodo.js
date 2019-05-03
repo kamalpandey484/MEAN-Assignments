@@ -36,7 +36,6 @@ class AddTodo extends Component {
         const users = this.state.users;
         users.push(response.data);
         this.props.history.push('/')
-
     }
     render() {
         return (
@@ -47,6 +46,7 @@ class AddTodo extends Component {
                 <div className="container">
                     <form onSubmit={this.addTodo}>
                         <input
+                                id="todoInput"
                                 type="text"
                                 name="todo"
                                 className="my-4 form-control"

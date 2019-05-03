@@ -2,11 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e1d790-a118-4fc7-ae6e-4dc001a21165" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../node-api/Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node-api/Backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node-api/Frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node-api/Frontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/collection-8-8979641004354445982.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/collection-8-8979641004354445982.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/diagnostic.data/metrics.2019-05-02T11-26-46Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/diagnostic.data/metrics.2019-05-02T11-26-46Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/diagnostic.data/metrics.interim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/journal/WiredTigerLog.0000000001" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/journal/WiredTigerLog.0000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/mongod.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/first_node/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/first_node/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/collection-14-2746363364641337744.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/collection-14-2746363364641337744.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/collection-17-2746363364641337744.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/collection-17-2746363364641337744.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/collection-2-2746363364641337744.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/collection-2-2746363364641337744.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/collection-4-2746363364641337744.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/collection-4-2746363364641337744.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/diagnostic.data/metrics.2019-05-02T11-29-32Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/diagnostic.data/metrics.2019-05-02T11-29-32Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/diagnostic.data/metrics.interim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/journal/WiredTigerLog.0000000001" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/journal/WiredTigerLog.0000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/mongod.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/second_node/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/second_node/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/collection-14--6345751993558409587.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/collection-14--6345751993558409587.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/collection-17--6345751993558409587.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/collection-17--6345751993558409587.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/collection-2--6345751993558409587.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/collection-2--6345751993558409587.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/collection-4--6345751993558409587.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/collection-4--6345751993558409587.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/diagnostic.data/metrics.2019-05-02T11-29-53Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/diagnostic.data/metrics.2019-05-02T11-29-53Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/diagnostic.data/metrics.interim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/journal/WiredTigerLog.0000000001" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/journal/WiredTigerLog.0000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/mongod.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mongo/third_node/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mongo/third_node/sizeStorer.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authentication/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../authentication/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authentication/views/login.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../authentication/views/login.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom-middleware/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../custom-middleware/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom-middleware/streamExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../custom-middleware/streamExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../express-assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AddTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../node-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node-api/Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../node-api/Backend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node-api/Frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../node-api/Frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../node/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,15 +62,139 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/Header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/AddTodo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="50" column="42" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Component/AddTodo.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/About.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/About.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="46" lean-forward="true" selection-end-line="41" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Component/About.min.js" />
+        <option value="$PROJECT_DIR$/src/Component/Home.test.js" />
+        <option value="$PROJECT_DIR$/src/Component/About.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Component/Home.js" />
+        <option value="$PROJECT_DIR$/src/Component/setupTests.js" />
+        <option value="$PROJECT_DIR$/src/Component/AddUser.test.js" />
+        <option value="$PROJECT_DIR$/src/Component/Header.test.js" />
+        <option value="$PROJECT_DIR$/src/Component/About.test.js" />
+        <option value="$PROJECT_DIR$/src/Component/AddUser.js" />
+        <option value="$PROJECT_DIR$/src/Component/Header.js" />
+        <option value="$PROJECT_DIR$/src/Component/AddTodo.js" />
+        <option value="$PROJECT_DIR$/src/Component/AddTodo.test.js" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
         <option value="$PROJECT_DIR$/.idea/todo-frontend.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
@@ -43,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -53,22 +223,35 @@
             <path>
               <item name="todo-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,6 +265,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,22 +293,23 @@
       <option name="presentableId" value="Default" />
       <updated>1556090817733</updated>
       <workItem from="1556090818850" duration="1172000" />
+      <workItem from="1556817193320" duration="314000" />
+      <workItem from="1556817580573" duration="208000" />
+      <workItem from="1556864863118" duration="7339000" />
+      <workItem from="1556877365150" duration="6912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1172000" />
+    <option name="totallyTimeSpent" value="15945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -116,12 +317,155 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4992163" weight="0.35833332" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007837" side_tool="true" weight="0.32833335" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4992163" visible="true" weight="0.48833334" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007837" side_tool="true" weight="0.32833335" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Home.test.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/AddUser.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Header.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/About.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="46" lean-forward="true" selection-end-line="41" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/AddTodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/AddTodo.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

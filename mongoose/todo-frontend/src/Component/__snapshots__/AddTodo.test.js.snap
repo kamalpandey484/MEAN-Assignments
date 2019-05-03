@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing AddTodo Component! Is snapshot Same 1`] = `
+<div
+  className="App \`col-6 mx-auto col-md-6\`"
+>
+  <header
+    className="App-header"
+  >
+    <h1
+      className="App-title text-center mt-3"
+    >
+      Add Todo
+    </h1>
+  </header>
+  <div
+    className="container"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        className="my-4 form-control"
+        id="todoInput"
+        name="todo"
+        onChange={[Function]}
+        placeholder="Add a new todo"
+        required={true}
+        type="text"
+        value=""
+      />
+      <button
+        className="btn-success mb-3 form-control"
+      >
+        Add todo
+      </button>
+    </form>
+  </div>
+</div>
+`;

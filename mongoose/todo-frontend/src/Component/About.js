@@ -4,7 +4,11 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 class About extends Component{
 
     render() {
-        return(<h1>About Component!</h1>);
+        return(
+            <div className="AboutPage">
+              <h1>About Component!</h1>
+            </div>
+        );
     }
 }
 export default About;

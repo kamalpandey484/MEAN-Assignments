@@ -3,7 +3,7 @@ import {Route, Link, BrowserRouter as Router} from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Navbar, Nav } from "react-bootstrap";
 import Home from "./Home";
-import Users from "./AddUser";
+import Todos from "./AddTodo";
 import About from "./About";
 
 import {createBrowserHistory} from "history";
@@ -18,8 +18,8 @@ class Header extends Component {
                         <Link to="/">Home</Link>
                     </Navbar.Brand>
                     <Nav>
-                        <Link to="/adduser" className={"mr-4"}>
-                            AddUser
+                        <Link to="/addtodo" className={"mr-4"}>
+                            Add Todo
                         </Link>
                         <Link to="/about" className={"mr-4"}>
                             About
@@ -28,7 +28,7 @@ class Header extends Component {
                 </Navbar>
 
                    <Route exact path="/" component={Home} />
-                   <Route path="/adduser" component={Users} />
+                   <Route path="/addtodo" component={Todos} />
                    <Route path="/about" component={About} />
                </Router>
         );
